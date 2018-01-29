@@ -1,15 +1,9 @@
 {
-  "name": "react-resizer",
-  "description": "React Resizer",
+  "name": "kt-resizer",
+  "description": "KT Resizer",
   "version": "0.1.2",
   "license": "MIT",
-  "main": "./",
-  "maintainers": [
-    {
-      "name": "Tomáš Stankovič",
-      "email": "tomas.stankovic@avocode.com"
-    }
-  ],
+  "main": "index.js",
   "keywords": [
     "react",
     "react-component",
@@ -26,11 +20,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/avocode/react-resizer.git",
-    "web": "http://github.com/avocode/react-resizer"
+    "url": "git://github.com/Slayslot/react-resizer.git",
+    "web": "https://github.com/Slayslot/react-resizer"
   },
   "bugs": {
-    "url": "http://github.com/avocode/react-resizer/issues"
+    "url": "https://github.com/Slayslot/react-resizer/issues"
   },
   "devDependencies": {
     "chai": "^3.5.0",
