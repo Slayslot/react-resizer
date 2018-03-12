@@ -1,5 +1,5 @@
 React = require 'react'
-ReactDOM = require 'react-dom'
+ReactDOM = require 'react-dom-factories'
 createReactClass = require 'create-react-class'
 PropTypes = require 'prop-types'
 
