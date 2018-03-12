@@ -1,8 +1,10 @@
 React = require 'react'
+ReactDOM = require 'react-dom'
+createReactClass = require 'create-react-class'
 
-{ div } = React.DOM
+{ div } = ReactDOM
 
-Resizer = React.createClass
+Resizer = createReactClass
   displayName: 'Resizer'
 
   propTypes:
